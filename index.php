@@ -9,7 +9,7 @@
 <link rel="stylesheet" href="css/mdb.min.css">
 <script src="js/mdb.min.js"></script>
 <body>
-    <h1>Cesmag app</h1>
+    <h1>Bienvenidos</h1>
     
    <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
@@ -28,13 +28,13 @@
     <div class="collapse navbar-collapse" id="Cesmag app">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">inicio</a>
+          <a class="nav-link active" aria-current="page" href="index.php">inicio</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Facultades</a>
+          <a class="nav-link" href="facultades.php">Facultades</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Programnas</a>
+          <a class="nav-link" href="programas.php">Programnas</a>
         </li>
         <li class="nav-item">
           
