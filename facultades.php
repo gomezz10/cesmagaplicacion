@@ -4,6 +4,9 @@ include 'conexin.php';
 ?>
 
 <h1> Listado de facultades </h1>
+<div aling = "Right">
+   <a href="btn btn-prmary">Adicionar</a>
+</div>
 <table class="table">
   <thead>
     <tr>
