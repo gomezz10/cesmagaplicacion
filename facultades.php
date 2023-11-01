@@ -5,7 +5,7 @@ include 'conexin.php';
 
 <h1> Listado de facultades </h1>
 <div aling = "Right">
-   <a href="btn btn-prmary">Adicionar</a>
+   <a class ="btn btn-prmary"  href = "form_registro_fac.php">Adicionar</a>
 </div>
 <table class="table">
   <thead>
